@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello"> Currency Converter</string>
+    <string name="app_name">Currency Converter</string>
+     <string name="bdt">BDT to USD</string>
+      <string name="usd">USD to BDT</string>
+       <string name="blank"> </string>
+
+</resources>
